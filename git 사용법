@@ -1,4 +1,5 @@
 git 토큰: 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
+시작전 git init 으로 .git폴더 만들어 주기
 
 git 사용자 내용 추가하기
 git config --global user.name GGuiGui
